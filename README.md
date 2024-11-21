@@ -1,5 +1,7 @@
-# Day_07
-
+# Lab Practical Day_07
+---
+#2020ICT107
+---
 
 This project demonstrates **parent-to-child** and **child-to-parent communication** in React using **props** and **state**. It is implemented with functional components.
 
